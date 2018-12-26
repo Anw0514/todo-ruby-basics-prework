@@ -11,7 +11,7 @@ def argue(example)
 end
 
 def greeting(ex1, ex2)
-ex1 ex2
+
 end
 
 def return_a_value
